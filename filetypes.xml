@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="css" type="CSS" />
+      <mapping pattern="Dockerfile_admin" type="Dockerfile" />
+      <mapping pattern="Dockerfile_client" type="Dockerfile" />
+      <mapping pattern="bu_Dockerfile" type="Dockerfile" />
+      <mapping ext="css" type="PostCSS" />
+    </extensionMap>
+  </component>
+</application>
