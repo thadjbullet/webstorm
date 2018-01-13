@@ -4,7 +4,7 @@
     <property name="created">2017-09-17T21:24:32</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-17T23:20:13</property>
+    <property name="modified">2018-01-08T19:58:29</property>
     <property name="originalScheme">Material Theme - One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -26,7 +26,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="31353e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2f333d" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
