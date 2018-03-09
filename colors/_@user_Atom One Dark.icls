@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T17:15:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-11T14:34:24</property>
+    <property name="modified">2018-03-09T22:15:30</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1307,6 +1307,16 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="61aeef" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
