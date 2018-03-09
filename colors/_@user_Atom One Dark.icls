@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T17:15:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-03-09T22:15:30</property>
+    <property name="modified">2018-03-09T22:22:11</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -1304,6 +1304,11 @@
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61aeef" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
