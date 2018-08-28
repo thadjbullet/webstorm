@@ -1,9 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.3.0" />
+    <option name="version" value="2.8.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="accentColor" value="2979ff" />
+    <option name="tabsHeight" value="35" />
+    <option name="darkTitleBar" value="true" />
+    <option name="userId" value="-3b46e3fa:16493844c0a:-7fff" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
