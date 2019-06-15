@@ -1,0 +1,39 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/osome/osomeadmin/src/js/redux/actions/channels.js" timestamp="1560612393639">
+        <mark key="[" line="161" column="23" />
+        <mark key="]" line="161" column="22" />
+        <mark key="^" line="161" column="22" />
+        <mark key="." line="161" column="22" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1560612376569">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>L</text>
+      </register>
+      <register name="-" type="4">
+        <text>L</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
