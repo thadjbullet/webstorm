@@ -4,7 +4,7 @@
     <property name="created">2017-09-17T21:24:32</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-01-08T19:58:29</property>
+    <property name="modified">2019-07-24T16:36:49</property>
     <property name="originalScheme">Material Theme - One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -19,7 +19,6 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -1190,6 +1189,9 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -1291,9 +1293,14 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cb466b" />
+        <option name="FOREGROUND" value="cb8f25" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1308,7 +1315,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cb446a" />
+        <option name="FOREGROUND" value="ffa72d" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
@@ -1352,11 +1359,13 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -1658,9 +1667,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
