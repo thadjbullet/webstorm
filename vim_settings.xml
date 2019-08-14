@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/osome/osomeadmin/src/domains/company/constants.js" timestamp="1565775978364" />
       <file name="$USER_HOME$/osome/osomeadmin/src/js/redux/actions/channels.js" timestamp="1560612393639">
         <mark key="[" line="161" column="23" />
         <mark key="]" line="161" column="22" />
@@ -12,11 +13,19 @@
       <file name="/GraphQL.result.json" timestamp="1560612376569">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/osome/osomeadmin/src/domains/company/model.js" timestamp="1565776011705">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUJyYW5jaGVzTWFwIH0gZnJvbSAnLi9jb25zdGFudHMnOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueUJyYW5jaGVzTWFwIH0gZnJvbSAnLi9jb25zdGFudHMnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>L</text>
@@ -26,7 +35,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
